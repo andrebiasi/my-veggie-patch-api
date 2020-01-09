@@ -1,6 +1,6 @@
 # Express API Starter
 
-* https://www.npmjs.com/package/create-express-ap
+* https://www.npmjs.com/package/create-express-api
 
 Includes API Server utilities:
 
